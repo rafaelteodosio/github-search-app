@@ -32,7 +32,6 @@
   letter-spacing: -.8px;
 }
 
-/* Responsividade */
 @media (max-width: 768px) {
   .landing-title {
     font-size: 2rem;
