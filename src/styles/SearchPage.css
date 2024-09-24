@@ -1,0 +1,9 @@
+.user-search-container {
+  border-radius: 8px;
+  padding: 2rem;
+}
+
+.no-results-img {
+  max-width: 200px;
+  opacity: 0.8;
+}
